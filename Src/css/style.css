@@ -55,3 +55,17 @@ nav {
     font-size: 22px;
     color: #79818d;
 }
+
+.title_container input{
+    height: 40px;
+    text-align: center;
+    border: 2px solid #6d7682;
+    background: none;
+    border-radius: 5px;
+    color: #6d7682;
+    font-size: 13px;
+    padding: 0px 16px;
+    margin-top: 50px 14px 0px 14px;
+}
+
+    
